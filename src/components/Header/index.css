@@ -1,0 +1,16 @@
+.appbar {
+    background-color: #f7d736;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    box-shadow: 0 8px 3px rgba(0, 0, 0, 0.12), 0 3px 2px rgba(0, 0, 0, 0.24);
+}
+
+.logo {
+    height: 3rem;
+    padding: 5px;
+}
+
+.subtitle {
+    padding: 10px;
+}
